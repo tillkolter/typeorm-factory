@@ -1,6 +1,6 @@
 ### generated stuff ###
 coverage
-dist
+# dist
 test.db
 .vscode
 
