@@ -1,0 +1,1 @@
+{"version":3,"file":"baseSubfactory.js","sourceRoot":"","sources":["../../src/subfactories/baseSubfactory.ts"],"names":[],"mappings":";;;AAAA,wCAAoC;AAGpC,MAAsB,cAAc;IAGlC,YACE,wBAAgE,EACtD,MAAoC;QAApC,WAAM,GAAN,MAAM,CAA8B;QAE9C,IAAI,CAAC,eAAe;YAClB,wBAAwB,YAAY,iBAAO,CAAC,CAAC,CAAC,wBAAwB,CAAC,CAAC,CAAC,IAAI,wBAAwB,EAAE,CAAA;IAC3G,CAAC;CAIF;AAbD,wCAaC"}
